@@ -2,5 +2,5 @@
 Type=XSession
 Exec=env KDEWM=/usr/bin/i3 /usr/bin/startplasma-x11
 DesktopNames=KDE
-Name=Plasma with i3
-Comment=Plasma with i3
+Name=i3-gaps mode
+Comment=i3-gaps mode

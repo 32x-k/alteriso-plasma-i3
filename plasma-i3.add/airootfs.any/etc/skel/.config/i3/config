@@ -201,9 +201,9 @@ no_focus [class="plasmashell" window_type="notification"]
 for_window [title="Desktop — Plasma"] kill; floating enable; border none
 for_window [title="Arbeitsfläche — Plasma"] kill; floating enable; border none
 
-#themes
-sleep 3.7;feh --bg-fill <themes>
-sleep 3.9;feh --bg-fill <themes>
+#wallpaper 
+sleep 3.7;feh --bg-fill /usr/share/backgrounds/alter.png
+sleep 3.9;feh --bg-fill /usr/share/backgrounds/alter.png
 # gaps each window
 gaps outer 1
 gaps inner 13
